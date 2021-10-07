@@ -1,0 +1,28 @@
+{
+  "name": "blockchain-anto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosamasan/blockchain-anto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosamasan/blockchain-anto/issues"
+  },
+  "homepage": "https://github.com/kosamasan/blockchain-anto#readme",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
